@@ -78,7 +78,7 @@ box-shadow: 10px 10px 60px 10px rgba(0,0,0,0.5);
   position: relative;
 }
 
-.text {
+.stuNumber {
   float: left;
   text-align: center;
   vertical-align: middle;
@@ -99,7 +99,7 @@ box-shadow: 10px 10px 60px 10px rgba(0,0,0,0.5);
   cursor:pointer;
 }
 
-.cancel {
+.name {
   float: left;
   text-align: center;
   vertical-align: middle;
